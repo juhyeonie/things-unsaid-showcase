@@ -49,14 +49,12 @@ answering two weeks later. It was never meant to be a permanent archive.
 
 ## Forty seconds of it
 
-<video src="assets/demo.mp4" controls muted playsinline width="760" poster="assets/screenshots/landing.jpg">
-  <a href="assets/demo.mp4">Watch the demo (40 seconds)</a>
-</video>
-
-[Watch the demo](assets/demo.mp4) &middot; 40 seconds
-
 <p align="center">
-  <img src="assets/screenshots/landing.jpg" alt="The Things Unsaid landing page" width="760">
+  <a href="assets/demo.mp4">
+    <img src="assets/screenshots/landing.jpg" alt="Watch the Things Unsaid demo" width="760">
+  </a>
+  <br>
+  <a href="assets/demo.mp4"><strong>▶ Watch the demo</strong></a> &middot; 40 seconds
 </p>
 
 ## The Freedom Wall
