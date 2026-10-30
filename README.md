@@ -68,32 +68,6 @@ the person who made it.
   <img src="assets/screenshots/wall.jpg" alt="The Freedom Wall" width="800">
 </p>
 
-<p align="center">
-  <img src="assets/screenshots/about.jpg" alt="The About page" width="800">
-</p>
-
-## Built with
-
-| | |
-| --- | --- |
-| **Frontend** | React, React Router, Tailwind CSS, Vite |
-| **Backend** | Node.js, a small HTTP API of its own |
-| **Database** | PostgreSQL, hosted on Supabase |
-| **Music** | YouTube, through its own player |
-| **Email** | Brevo |
-| **Hosting** | Vercel |
-
-Accounts are the application's own rather than a third party's: passwords are
-salted and hashed, sessions are stored as hashes rather than as tokens, and an
-address has to be confirmed before an account can make anything.
-
-## Try it
-
-**[thingsunsaid.vercel.app](https://thingsunsaid.vercel.app)**
-
-Reading the Freedom Wall needs no account. Making a mixtape needs one, and the
-email address on it has to be confirmed first.
-
 ## About this repository
 
 This is the public home of Things Unsaid: what it is, what it does, and where
