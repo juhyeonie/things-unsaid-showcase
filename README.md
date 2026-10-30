@@ -47,14 +47,8 @@ rather than typed.
 **One link, fourteen days.** A private mixtape goes to one person and stops
 answering two weeks later. It was never meant to be a permanent archive.
 
-## Forty seconds of it
-
 <p align="center">
-  <a href="assets/demo.mp4">
-    <img src="assets/screenshots/landing.jpg" alt="Watch the Things Unsaid demo" width="760">
-  </a>
-  <br>
-  <a href="assets/demo.mp4"><strong>▶ Watch the demo</strong></a> &middot; 40 seconds
+  <img src="assets/screenshots/landing.jpg" alt="The Things Unsaid landing page" width="800">
 </p>
 
 ## The Freedom Wall
@@ -71,9 +65,11 @@ It is public and it is not anonymous: a mixtape on the wall carries the name of
 the person who made it.
 
 <p align="center">
-  <img src="assets/screenshots/landing-mobile.jpg" alt="Things Unsaid on a phone" width="300">
-  &nbsp;&nbsp;
-  <img src="assets/screenshots/about.jpg" alt="The About page" width="420">
+  <img src="assets/screenshots/wall.jpg" alt="The Freedom Wall" width="800">
+</p>
+
+<p align="center">
+  <img src="assets/screenshots/about.jpg" alt="The About page" width="800">
 </p>
 
 ## Built with
